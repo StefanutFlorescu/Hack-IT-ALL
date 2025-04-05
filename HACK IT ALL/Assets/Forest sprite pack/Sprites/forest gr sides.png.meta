@@ -290,13 +290,13 @@ TextureImporter:
       name: forest gr sides_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 671
-        width: 898
-        height: 257
+        x: 0
+        y: 705
+        width: 896
+        height: 223
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 207, y: 0, z: 207, w: 0}
+      border: {x: 85, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -383,7 +383,7 @@ TextureImporter:
         width: 892
         height: 272
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 203, y: 0, z: 206, w: 0}
       customData: 
       outline: []
@@ -405,7 +405,7 @@ TextureImporter:
         width: 895
         height: 302
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 189, y: 0, z: 211, w: 0}
       customData: 
       outline: []
@@ -427,7 +427,7 @@ TextureImporter:
         width: 897
         height: 291
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 190, y: 0, z: 210, w: 0}
       customData: 
       outline: []

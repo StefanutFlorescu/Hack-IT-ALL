@@ -335,13 +335,13 @@ TextureImporter:
       name: grass ferr_6
       rect:
         serializedVersion: 2
-        x: 1189
-        y: 46
-        width: 291
-        height: 160
+        x: 1227
+        y: 72
+        width: 226
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 22}
       customData: 
       outline:
       - - {x: 145.5, y: -5}
@@ -397,7 +397,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8cec87387e5f8654a88d1699973f2f30
     internalID: 0
     vertices: []
     indices: 

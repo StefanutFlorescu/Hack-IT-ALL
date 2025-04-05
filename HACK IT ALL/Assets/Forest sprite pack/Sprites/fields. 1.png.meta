@@ -138,20 +138,20 @@ TextureImporter:
       name: fields. 1_0
       rect:
         serializedVersion: 2
-        x: 757
-        y: 389
-        width: 1163
-        height: 446
+        x: 0
+        y: 0
+        width: 0
+        height: 0
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0aebedf6720aae2439396f7aaffd9137
-      internalID: -75503278
+      spriteID: 2c2294492b27418a0800000000000000
+      internalID: -6335312664485879102
       vertices: []
       indices: 
       edges: []
@@ -160,7 +160,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9d73da3fee603a244a854792d8bff617
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -170,13 +170,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fields. 1_0: -75503278
-      fields._1: 21300000
-      fields._2: 21300002
-      fields._4: 21300004
-      fields._5: 21300006
-      fields._7: 21300008
-      fields._8: 21300010
+      fields. 1_0: -6335312664485879102
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
