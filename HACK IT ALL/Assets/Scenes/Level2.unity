@@ -2034,7 +2034,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 1f2a66a756024aa4c9a620cfda0854ed, type: 3}
       propertyPath: LevelName
-      value: SampleScene
+      value: Level1
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 1f2a66a756024aa4c9a620cfda0854ed, type: 3}
       propertyPath: m_Enabled
@@ -5637,7 +5637,7 @@ MonoBehaviour:
   OnStay:
     m_PersistentCalls:
       m_Calls: []
-  LevelName: SampleScene
+  LevelName: Level1
   DelayBeforeTransition: 0
   TriggerFade: 0
   FaderID: 0

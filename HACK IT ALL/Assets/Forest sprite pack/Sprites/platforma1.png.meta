@@ -1,53 +1,10 @@
 fileFormatVersion: 2
-guid: fd890b86fc134654f992fc95cd780485
-AssetOrigin:
-  serializedVersion: 1
-  productId: 216237
-  packageName: 2D Forest sprite pack.
-  packageVersion: 1.0
-  assetPath: Assets/Forest sprite pack/Sprites/new trees.png
-  uploadId: 487926
+guid: f9efdd07a51e8e94d918430869dc1578
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: new trees_0
-  - first:
-      213: 21300002
-    second: new trees_1
-  - first:
-      213: 21300004
-    second: new trees_2
-  - first:
-      213: 21300006
-    second: new trees_3
-  - first:
-      213: 21300008
-    second: new trees_4
-  - first:
-      213: 21300010
-    second: new trees_5
-  - first:
-      213: 21300012
-    second: new trees_6
-  - first:
-      213: 21300014
-    second: new trees_7
-  - first:
-      213: 21300016
-    second: new trees_11
-  - first:
-      213: 21300018
-    second: new trees_12
-  - first:
-      213: 21300020
-    second: new trees_13
-  - first:
-      213: 21300022
-    second: new trees_16
-  - first:
-      213: 21300024
-    second: new trees_17
+      213: 919721698748099834
+    second: platforma1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +66,13 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -128,7 +85,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -141,7 +98,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -156,61 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: new trees_2
+      name: platforma1_0
       rect:
         serializedVersion: 2
-        x: 2521
-        y: 1684
-        width: 1169
-        height: 1655
+        x: 184
+        y: 62
+        width: 550
+        height: 212
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline:
-      - - {x: 211.69556, y: -58.80127}
-        - {x: 584.5, y: 402.18362}
-        - {x: 584.5, y: 551.7434}
-        - {x: 584.5, y: 690.96497}
-        - {x: 503.64966, y: 827.5}
-        - {x: -548.6267, y: 827.5}
-        - {x: -584.15826, y: 744.995}
-        - {x: -584.15826, y: -275.98666}
-        - {x: -584.5, y: -763.37744}
-        - {x: -379.1973, y: -827.4658}
-        - {x: 584.5, y: -827.4658}
-        - {x: 584.5, y: -665.3757}
+      outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: new trees_11
-      rect:
-        serializedVersion: 2
-        x: 1169
-        y: 1177
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline:
-      - - {x: -3, y: 2.5}
-        - {x: -3, y: -2.3455977}
-        - {x: 3, y: -2.3455977}
-        - {x: 3, y: 2.5}
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
+      spriteID: afc691a130283cc00800000000000000
+      internalID: 919721698748099834
       vertices: []
       indices: 
       edges: []
@@ -219,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 08263f64e02f96141ad9e687bcb5ac8c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -228,20 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      new trees_0: 21300000
-      new trees_1: 21300002
-      new trees_11: 21300016
-      new trees_12: 21300018
-      new trees_13: 21300020
-      new trees_16: 21300022
-      new trees_17: 21300024
-      new trees_2: 21300004
-      new trees_3: 21300006
-      new trees_4: 21300008
-      new trees_5: 21300010
-      new trees_6: 21300012
-      new trees_7: 21300014
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
