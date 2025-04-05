@@ -138,13 +138,13 @@ TextureImporter:
       name: fields._1
       rect:
         serializedVersion: 2
-        x: 868
-        y: 876
-        width: 992
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 805
+        y: 990
+        width: 1060
+        height: 264
+      alignment: 9
+      pivot: {x: 0.51657087, y: 0.8577875}
+      border: {x: 0, y: 74, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
         width: 636
         height: 280
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -187,7 +187,7 @@ TextureImporter:
         width: 992
         height: 348
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,7 +209,7 @@ TextureImporter:
         width: 636
         height: 280
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,7 +231,7 @@ TextureImporter:
         width: 636
         height: 280
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -248,13 +248,13 @@ TextureImporter:
       name: fields._8
       rect:
         serializedVersion: 2
-        x: 882
+        x: 848
         y: 60
-        width: 992
-        height: 348
+        width: 1024
+        height: 86
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 86}
       customData: 
       outline: []
       physicsShape: []
@@ -270,7 +270,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 333a4b0608e056a469b6a05e80417c4f
     internalID: 0
     vertices: []
     indices: 
