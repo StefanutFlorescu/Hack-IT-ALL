@@ -2010,7 +2010,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 1f2a66a756024aa4c9a620cfda0854ed, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -10.2
+      value: -12.73
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 1f2a66a756024aa4c9a620cfda0854ed, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2034,7 +2034,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 1f2a66a756024aa4c9a620cfda0854ed, type: 3}
       propertyPath: LevelName
-      value: SampleScene
+      value: LevelSelector
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 1f2a66a756024aa4c9a620cfda0854ed, type: 3}
       propertyPath: m_Enabled
@@ -2231,7 +2231,7 @@ SpriteRenderer:
   m_Size: {x: 10.06, y: 14.14}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &420984527
@@ -2946,6 +2946,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.r
       value: 0.9622642
+      objectReference: {fileID: 0}
+    - target: {fileID: 114185218450391126, guid: ace2d4bf56f98df4196ff81845a465d7,
+        type: 3}
+      propertyPath: Fade
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114185218450391126, guid: ace2d4bf56f98df4196ff81845a465d7,
+        type: 3}
+      propertyPath: LevelName
+      value: LevelSelector
       objectReference: {fileID: 0}
     - target: {fileID: 114226898906063788, guid: ace2d4bf56f98df4196ff81845a465d7,
         type: 3}
@@ -5822,7 +5832,7 @@ MonoBehaviour:
   OnStay:
     m_PersistentCalls:
       m_Calls: []
-  LevelName: SampleScene
+  LevelName: LevelSelector
   DelayBeforeTransition: 0
   TriggerFade: 0
   FaderID: 0
